@@ -1,0 +1,23 @@
+#highScoresList{
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.high-score{
+    font-size: 2.8rem;
+    margin-bottom: 0.9rem;
+    color:rgb(10, 37, 194);
+    font-family: monospace;
+    background-color: aqua;
+    padding:1rem;
+    width:40rem;
+    border-radius: 5%;
+    text-shadow: aqua;
+    text-transform:uppercase ;
+}
+
+.high-score:hover{
+    transform:scale(1.075);
+}
